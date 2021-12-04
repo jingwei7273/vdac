@@ -8,10 +8,10 @@ Steps to install and run the web server<br /><br />
 -Replace ‘localhost/dashboard/” with ‘localhost/cfma/’<br />
 -Make sure you have created an account with full priviledges in MySQL<br />
 -The attached source code use the following username and password<br />
-    Hostname: “localhost”<br />
-    Username: “zhe”<br />
-    Password: “1234”<br />
-    dbname: “cfma”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hostname: “localhost”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Username: “zhe”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: “1234”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dbname: “cfma”<br />
 -Import the cfma.sql into your own server<br />
 -Once done, you may use apache to open the cfma folder<br />
 -Press F12 to view in mobile mode.<br />
