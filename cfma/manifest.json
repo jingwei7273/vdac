@@ -1,0 +1,17 @@
+{
+    "name": "Cash Flow Management App",
+    "short_name": "cfma",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "css/icon.png",
+        "type": "image/png", "sizes": "512x512"
+    
+      }
+    ]
+  }
+  
